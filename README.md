@@ -12,4 +12,6 @@ Faça um programa que receba dados de um _pet_ ao dar entrada em um _pet_ hotel.
 +=========================================================+
 ```
 
-Use c
+Use cores destacadas para o título e para os dados do _pet_, e cores neutras para as bordas.
+
+---
